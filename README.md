@@ -10,4 +10,4 @@ IntelliJ Run Configuration Setup:
 
 Run > Edit Configurations... > '+' > Maven
 
-Add tomcat7:run in the 'Command line' field and edit the Name field to something suitable like 'Tomcat7RunConfig'
+Add _tomcat7:run_ in the 'Command line' field and edit the Name field to something suitable like 'Tomcat7RunConfig'
