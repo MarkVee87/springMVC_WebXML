@@ -1,4 +1,4 @@
-# springMVC_WebXML
+# springMVC_WebXMLOnly
 
 Basic Spring MVC starting point using XML config and Java annotations for bean creation.
 
